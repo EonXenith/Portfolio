@@ -77,7 +77,7 @@ export const projects: Project[] = [
     tech: ["Three.js", "JavaScript", "WebGL", "Procedural Generation"],
     status: "LIVE",
     image: "/projects/starfarer.png",
-    imagePosition: "30% center",
+    imagePosition: "25% center",
     liveUrl: "https://starfarer-git-main-eonxeniths-projects.vercel.app/",
     githubUrl: "https://github.com/EonXenith/Starfarer",
     caseStudy: null,

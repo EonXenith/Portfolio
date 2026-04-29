@@ -52,7 +52,7 @@ export function ProjectCard({ project, index, onClick }: Props) {
           className="pointer-events-none absolute inset-0 z-10 opacity-0 transition-opacity group-hover:opacity-100"
           style={{
             background:
-              "radial-gradient(400px circle at var(--x, 50%) var(--y, 50%), rgba(124, 92, 255, 0.06), transparent 60%)",
+              "radial-gradient(400px circle at var(--x, 50%) var(--y, 50%), rgba(14, 165, 233, 0.06), transparent 60%)",
           }}
         />
 

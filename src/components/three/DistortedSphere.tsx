@@ -25,7 +25,7 @@ export function DistortedSphere() {
       <Icosahedron args={[1.4, 64]}>
         <MeshDistortMaterial
           ref={matRef}
-          color="#7C5CFF"
+          color="#0EA5E9"
           roughness={0.15}
           metalness={0.6}
           distort={0.42}

@@ -5,12 +5,12 @@
       <stop offset="1" stop-color="#111113"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0" stop-color="#7C5CFF"/>
+      <stop offset="0" stop-color="#0EA5E9"/>
       <stop offset="1" stop-color="#22D3EE"/>
     </linearGradient>
   </defs>
   <rect width="1200" height="630" fill="url(#bg)"/>
-  <circle cx="900" cy="200" r="200" fill="#7C5CFF" fill-opacity="0.12"/>
+  <circle cx="900" cy="200" r="200" fill="#0EA5E9" fill-opacity="0.12"/>
   <circle cx="300" cy="450" r="150" fill="#22D3EE" fill-opacity="0.08"/>
   <text x="600" y="270" text-anchor="middle" fill="#F7F7F8" font-family="system-ui, sans-serif" font-weight="900" font-size="72">Edward Xiong</text>
   <text x="600" y="340" text-anchor="middle" fill="#B4B4BB" font-family="system-ui, sans-serif" font-weight="400" font-size="24">Building with AI. Shipping small, strange things.</text>
