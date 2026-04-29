@@ -64,7 +64,7 @@ export function ProjectCard({ project, index, onClick }: Props) {
               alt={`Screenshot of ${project.title}`}
               fill
               className="object-cover transition-transform duration-500 group-hover:scale-[1.12] group-hover:saturate-[1.1]"
-              style={{ transform: "scale(1.05)" }}
+              style={{ transform: "scale(1.05)", objectPosition: project.imagePosition || "center" }}
               sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
             />
           </div>

@@ -51,6 +51,7 @@ export function ProjectModal({ project, open, onOpenChange }: Props) {
             alt={`Screenshot of ${project.title}`}
             fill
             className="object-cover"
+            style={{ objectPosition: project.imagePosition || "center" }}
             sizes="(max-width: 768px) 100vw, 768px"
           />
         </div>

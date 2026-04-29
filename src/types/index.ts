@@ -6,6 +6,7 @@ export interface Project {
   tech: string[];
   status: "LIVE" | "WIP" | "ARCHIVED";
   image: string;
+  imagePosition?: string;
   liveUrl: string | null;
   githubUrl: string | null;
   caseStudy: string | null;
